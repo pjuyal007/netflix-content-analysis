@@ -60,6 +60,7 @@ A 3-page Power BI dashboard:
 2. Content Analysis
 3. Time & Content Age Analysis
 
+link:-  https://github.com/pjuyal007/netflix-content-analysis/blob/main/Images
 
 
 ---
