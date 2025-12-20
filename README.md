@@ -60,7 +60,7 @@ A 3-page Power BI dashboard:
 2. Content Analysis
 3. Time & Content Age Analysis
 
-The dashboard provides insights into Netflix’s content strategy and trends.
+
 
 ---
 
